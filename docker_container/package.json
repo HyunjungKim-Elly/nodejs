@@ -1,0 +1,23 @@
+{
+  "name": "docker_container",
+  "version": "1.0.0",
+  "description": "node.js on docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunjungKim-Elly/web_practice.git"
+  },
+  "author": "Elly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyunjungKim-Elly/web_practice/issues"
+  },
+  "homepage": "https://github.com/HyunjungKim-Elly/web_practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
